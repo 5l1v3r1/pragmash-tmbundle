@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>nyrkavpuby@pbzpnfg.arg</string>
+	<key>contactName</key>
+	<string>Alex Nichol</string>
+	<key>description</key>
+	<string>A bundle for writing pragmash scripts.</string>
+	<key>name</key>
+	<string>Pragmash</string>
+	<key>uuid</key>
+	<string>72A93DF7-345B-464B-9FC1-2987725EF0C4</string>
+</dict>
+</plist>
