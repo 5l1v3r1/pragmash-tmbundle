@@ -23,6 +23,18 @@
 			<string>comment.line.untitled</string>
 		</dict>
 		<dict>
+			<key>match</key>
+			<string>{</string>
+			<key>name</key>
+			<string>punctuation.section.scope.begin</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>}</string>
+			<key>name</key>
+			<string>punctuation.section.scope.end</string>
+		</dict>
+		<dict>
 			<key>begin</key>
 			<string>"</string>
 			<key>end</key>
